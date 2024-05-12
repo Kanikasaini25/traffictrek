@@ -4,5 +4,3 @@ selenium
 schedule
 stem
 webdriver-manager
-concurrent.futures
-
